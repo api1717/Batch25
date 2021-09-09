@@ -1,9 +1,5 @@
 apisero
 batch 25
 hello world
-
-<<<<<<< HEAD
 I was added from remote repository
-=======
-I was added from remote repository
->>>>>>> 7c1a110cff57387baa4deaa7f5c4a2aa56c3696c
+I was added from remote repository123
